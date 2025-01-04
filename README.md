@@ -20,7 +20,7 @@ Tools are functions that an Agent can run like searching the web, running SQL, s
 
 A knowledge base is a database of information that an agent can search to improve its responses. This information is stored in a vector database and provides agents with business context, helping them respond in a context-aware manner.
 
-![AI](https://drive.google.com/file/d/1kLphXLdVibwub_vjt5bd_X3s_5T4jQbt/view?usp=sharing)
+![AI](ai_agent_setup.jpg)
 
 
 # Setup
